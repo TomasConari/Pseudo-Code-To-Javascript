@@ -1,6 +1,7 @@
-# PseudocodeToJs
+# Pseudo Code To Javascript
 
-Here we solved logic exercises in JavaScript with the aim of practicing our logic.
+Here we develop several logic exercises as a group and aim to solve them using JavaScript 
+to enhance our logic, problem identification, and problem-solving skills.
 
 My Links:
 
